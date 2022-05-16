@@ -12,8 +12,7 @@ let currentPiece;
 let currentDropPiece;
 let mouse;
 img.addEventListener("load", onImage, false);
-// img.src = "https://asyncbanana.github.io/html5-canvas-puzzle/mke.jpg";
-img.src = "https://catracalivre.com.br/wp-content/uploads/2017/04/dora_a_aventureira.jpg";
+img.src = "https://cdn.pixabay.com/photo/2018/03/26/14/07/space-3262811_960_720.jpg";
 
 function initPuzzle() {
   pieces = [];
